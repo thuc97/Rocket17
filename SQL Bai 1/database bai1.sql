@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS Testing_System_Assignment4;
-CREATE DATABASE Testing_System_Assignment4 ;
-USE Testing_System_Assignment4 ;
+DROP DATABASE IF EXISTS Testing_System_Assignment;
+CREATE DATABASE Testing_System_Assignment ;
+USE Testing_System_Assignment ;
 
 
 CREATE TABLE Department (
